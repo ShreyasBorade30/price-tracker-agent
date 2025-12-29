@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+crewai
+crewai-tools
+litellm
+groq
+twilio
+apscheduler
+pydantic
+requests
